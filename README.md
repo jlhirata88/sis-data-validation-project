@@ -36,6 +36,11 @@ I created this project to strengthen my SQL, reporting, and systems analysis ski
 ## Resume Description
 Built a relational database simulating a student information system environment. Developed SQL queries to identify data inconsistencies, validate records, and generate reports supporting data accuracy and decision-making.
 
+## Screenshots
+
+### Report Output
+![Report Output](screenshots/report-output.png)
+
 ## Database Diagram
 
 ```mermaid
